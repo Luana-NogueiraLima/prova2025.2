@@ -1,3 +1,5 @@
+//Levei aproximadamente 3h para escrever as funções no caderno e passar para o computador, corrigindo ao longo do processo//
+// Eu daria uma nota 7/8, tive alguns erros mas consegui corrigir sem dificuldades//
 public class prova{
 
     public static void main(String[]args){
@@ -96,5 +98,3 @@ public static void rotacionar(int[]v, int tam, int k){
       }
     }
 }
-
-//Levei aproximadamente 3h para escrever as funções no caderno e passar para o computador, corrigindo ao longo do processo//
